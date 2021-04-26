@@ -6,7 +6,7 @@
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React-Native/Next.js/Tailwind Css.
+- 🌱 I’m currently learning React/Node.js/MongoDB.
 - 💬 Ask me about anything about programming and coding. 
 - ⚡ Fun fact: I can handle  any  programming related problem in few time.  
 
