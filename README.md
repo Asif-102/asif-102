@@ -43,6 +43,6 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Py
 
 ![GitHub metrics](https://metrics.lecoq.io/Mohammad-Asif-Iqbal)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Asif-Iqbal&theme=tokyonight)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Asif-Iqbal)  
 
 ![Profile views](https://gpvc.arturio.dev/Mohammad-Asif-Iqbal)  
