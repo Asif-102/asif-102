@@ -1,7 +1,7 @@
 
-### Hi there 👋, my name is [Asif](https://mohammad-asif.netlify.app/)
+### Hi there 👋, my name is [Asif](https://mohammad-asif-iqbal.netlify.app/)
 
-## [My-Portfolio](https://mohammad-asif.netlify.app/)
+## [My-Portfolio](https://mohammad-asif.netlify-iqbal.app/)
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
