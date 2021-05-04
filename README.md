@@ -1,9 +1,7 @@
 <h3 align="center">Mohammad Asif Iqbal</h3>
 <h4 align="center">Thinking-Solving-Programming-Building</h4>
 
-<h2 align="center">
-## [My-Portfolio](https://mohammad-asif-iqbal.netlify.app/)
-</h2>
+<h2 align="center">[My-Portfolio](https://mohammad-asif-iqbal.netlify.app/)</h2>
 
 
 <b>Skills</b>: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
