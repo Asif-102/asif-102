@@ -8,8 +8,11 @@
 
 
 •	<b>Expertise</b>:  JavaScript, ES6, React.js, REST API, React Bootstrap,  REACT  ROUTER,  Bootstrap, HTML, CSS, Material-UI
+<br />
 •	<b>Comfortable</b>: Node.js,  Express-Node.js, MongoDB, JSON, Sass, Firebase
+<br />
 •	<b>Familiar</b>: React Native, Redux.js, TypeScript, Tailwind, Python, C, C++
+<br />
 •	<b>Tools</b>:  Git, Node, NPM, Webpack,  VS Code, Firebase, Netlify, Heroku, Chrome Dev Tool
 
 
