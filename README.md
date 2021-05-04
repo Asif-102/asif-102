@@ -4,7 +4,7 @@
 ## [My-Portfolio](https://mohammad-asif-iqbal.netlify.app/)
 
 
-Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
+<b>Skills</b>: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
 
 - 🔭 <b>Working with</b>: JavaScript, Node.js, Express.js, MongoDB, React.js 
 - 🌱 <b>I’m currently learning</b>: React Redux. 
