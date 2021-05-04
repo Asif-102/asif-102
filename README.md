@@ -1,4 +1,5 @@
-<h3 align="center">Mohammad Asif Iqbal</h3>
+<h3 align="center">Hi there 👋, my name is Asif</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <h4 align="center">Thinking-Solving-Programming-Building</h4>
 
 <h2 align="center">
@@ -6,11 +7,11 @@
 </h2>
 
 
-<b>Skills</b>: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
+•	<b>Expertise</b>:  JavaScript, ES6, React.js, REST API, React Bootstrap,  REACT  ROUTER,  Bootstrap, HTML, CSS, Material-UI
+•	<b>Comfortable</b>: Node.js,  Express-Node.js, MongoDB, JSON, Sass, Firebase
+•	<b>Familiar</b>: React Native, Redux.js, TypeScript, Tailwind, Python, C, C++
+•	<b>Tools</b>:  Git, Node, NPM, Webpack,  VS Code, Firebase, Netlify, Heroku, Chrome Dev Tool
 
-- 🔭 <b>Working with</b>: JavaScript, Node.js, Express.js, MongoDB, React.js 
-- 🌱 <b>I’m currently learning</b>: React Redux. 
-- ⚡ <b>Fun fact</b>: I enjoy stress.  
 
 ### Connect with me:
 
