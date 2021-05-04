@@ -48,7 +48,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Asif-Iqbal)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mohammad-Asif-Iqbal)  
+![GitHub metrics](https://metrics.lecoq.io/Mohammad-Asif-Iqbal?template=classic&config.timezone=Asia%2FDhaka)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Asif-Iqbal)  
 
