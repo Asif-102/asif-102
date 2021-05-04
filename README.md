@@ -3,14 +3,12 @@
 
 ## [My-Portfolio](https://mohammad-asif-iqbal.netlify.app/)
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
 
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React/Node.js/MongoDB.
-- 💬 Ask me about anything about programming and coding. 
-- ⚡ Fun fact: I can handle  any  programming related problem in few time.  
+- 🔭 <b>Working with</b>: JavaScript, Node.js, Express.js, MongoDB, React.js 
+- 🌱 <b>I’m currently learning</b>: React Redux. 
+- ⚡ <b>Fun fact</b>: I enjoy stress.  
 
 ### Connect with me:
 
