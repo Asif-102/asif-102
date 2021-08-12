@@ -44,11 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asif-102)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asif-102)  
-
-![GitHub metrics](https://metrics.lecoq.io/asif-102?template=classic&config.timezone=Asia%2FDhaka)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asif-102)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asif-102)  
 
