@@ -3,7 +3,7 @@
 <h4 align="center">Thinking-Solving-Programming-Building</h4>
 
 <h2 align="center">
-    <a href="https://mohammad-asif-iqbal.netlify.app/">My-Portfolio</a>
+    <a href="https://asif-102.netlify.app/">My-Portfolio</a>
 </h2>
 
 
@@ -40,16 +40,16 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad-Asif-Iqbal)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asif-102)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Asif-Iqbal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Asif-Iqbal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asif-102)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Asif-Iqbal)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asif-102)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mohammad-Asif-Iqbal?template=classic&config.timezone=Asia%2FDhaka)  
+![GitHub metrics](https://metrics.lecoq.io/asif-102?template=classic&config.timezone=Asia%2FDhaka)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Asif-Iqbal)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asif-102)  
 
-![Profile views](https://gpvc.arturio.dev/Mohammad-Asif-Iqbal)  
+![Profile views](https://gpvc.arturio.dev/asif-102)  
