@@ -39,8 +39,8 @@
 <div style="display: flex;">
   <div style="width: 50%;" align="center" >
     
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohammad-asif-iqbal/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/asif-102) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-asif-iqbal/)
+&nbsp; [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/asif.asifiqbal.71868) 
 
    <div >
   <div style="width: 50%;" align="center" >
